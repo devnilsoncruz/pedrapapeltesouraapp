@@ -1,12 +1,10 @@
 package com.example.pedrapapeltesouraapp;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.content.UriMatcherCompat;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.Switch;
 import android.widget.TextView;
 
 import java.util.Random;
